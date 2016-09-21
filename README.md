@@ -1,5 +1,7 @@
 # loading
-技术积累
+---
+Tips
+---
 
 <a href="https://github.com/Tronside/Tech-loading/issues/1" > 穿透点击/elementFromPoint </a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/4" >让你彻底弄清offset,client,body,scroll</a><br>
@@ -10,4 +12,12 @@
 <a href="https://github.com/Tronside/Tech-loading/issues/9">IE 浏览器下，页面跳转、刷新与cookie的问题</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/10">javascript中的 call 与 apply</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/11">移动端web view方式android & ios 软键盘区别</a>
-
+<a href="https://github.com/Tronside/Tech-loading/issues/12">回到顶部按钮</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/13">预加载图片</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/14">检查图片是否加载完毕</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/15">自动修复损坏的图片</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/16">简单的手风琴效果</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/17">使两个 Div 高度一样</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/18">通过文本找到元素</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/19">视觉改变触发</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/20">Ajax 调用的错误处理</a>

@@ -18,6 +18,6 @@ Primary Tips
 <a href="https://github.com/Tronside/Tech-loading/issues/16">简单的手风琴效果</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/17">使两个 Div 高度一样</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/18">通过文本找到元素</a><br>
-<a href="https://github.com/Tronside/Tech-loading/issues/19">视觉改变触发</a><br>
+<a href="https://github.com/Tronside/Tech-loading/issues/19">视焦点改变触发</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/20">Ajax 调用的错误处理</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/21">多用户端判断</a>

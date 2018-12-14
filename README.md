@@ -27,6 +27,6 @@
 
 ##Tools
 
-[PhotoSwipe](http://photoswipe.com/ "PhotoSwipe")
+[PhotoSwipe](http://photoswipe.com/ "PhotoSwipe")<br>
 [jQuery自适应图片排列插件flexImages](http://plugins.jquery.com/flex-images/ "flexImages")
 

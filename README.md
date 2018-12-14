@@ -22,3 +22,5 @@ Primary Tips
 <a href="https://github.com/Tronside/Tech-loading/issues/20">Ajax 调用的错误处理</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/21">多用户端判断</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/22">Jquery判断图片实际宽高</a>
+
+---、

@@ -1,5 +1,5 @@
 # loading
-Primary Tips
+###Primary Tips
 ---
 
 <a href="https://github.com/Tronside/Tech-loading/issues/1" > 穿透点击/elementFromPoint </a><br>
@@ -23,4 +23,10 @@ Primary Tips
 <a href="https://github.com/Tronside/Tech-loading/issues/21">多用户端判断</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/22">Jquery判断图片实际宽高</a>
 
----、
+===
+
+###Tools
+
+[PhotoSwipe](http://photoswipe.com/ "PhotoSwipe")
+
+

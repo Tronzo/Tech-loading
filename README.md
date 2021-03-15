@@ -32,6 +32,8 @@
 [PhotoSwipe](http://photoswipe.com/ "PhotoSwipe")<br>
 [jQuery自适应图片排列插件flexImages](http://plugins.jquery.com/flex-images/ "flexImages")
 
+---
+
 ## 前端架构梳理
 
 <a href="https://github.com/Tronside/Tech-loading/issues/25">目录</a>

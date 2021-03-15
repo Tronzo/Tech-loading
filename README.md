@@ -36,5 +36,5 @@
 
 ## 前端架构梳理
 
-<a href="https://github.com/Tronside/Tech-loading/issues/25">目录</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/26">目录</a>
 

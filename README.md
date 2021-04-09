@@ -1,5 +1,5 @@
 # loading
-## Primary Tips
+Primary Tips
 ---
 <a href="https://github.com/Tronside/Tech-loading/issues/25" >中高级前端必须注意的40条移动端H5坑位指南(爬坑必备) </a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/1" > 穿透点击/elementFromPoint </a><br>

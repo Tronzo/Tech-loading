@@ -24,8 +24,7 @@ Primary Tips
 <a href="https://github.com/Tronside/Tech-loading/issues/22">Jquery判断图片实际宽高</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/23">巧用apply获取最大值</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/24">windows下面kill 80端口</a><br/>
-<a href="https://github.com/Tronside/Tech-loading/issues/27">上传文件设置accept的MIME 类型</a><br/>
-<a href="https://github.com/Tronside/Tech-loading/issues/28">HTML空格占位符</a>
+<a href="https://github.com/Tronside/Tech-loading/issues/27">上传文件设置accept的MIME 类型</a>
 ---
 
 ## Tools

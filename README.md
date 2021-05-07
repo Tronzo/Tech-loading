@@ -31,10 +31,10 @@
 
 ## Tools
 
-[PhotoSwipe](http://photoswipe.com/ "PhotoSwipe")<br/>
-[jQuery自适应图片排列插件flexImages](http://plugins.jquery.com/flex-images/ "flexImages")<br/>
-[Three.js](http://www.webgl3d.cn/Three.js)<br/>
-[nouislider.js](https://refreshless.com/nouislider/)
+[PhotoSwipe](http://photoswipe.com/ "PhotoSwipe"?_blank)<br/>
+[jQuery自适应图片排列插件flexImages](http://plugins.jquery.com/flex-images/ "flexImages"?_blank)<br/>
+[Three.js](http://www.webgl3d.cn/Three.js?_blank)<br/>
+[nouislider.js](https://refreshless.com/nouislider/?_blank)
 
 ---
 

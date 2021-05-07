@@ -34,6 +34,7 @@
 [PhotoSwipe](http://photoswipe.com/ "PhotoSwipe")<br>
 [jQuery自适应图片排列插件flexImages](http://plugins.jquery.com/flex-images/ "flexImages")<br>
 [Three.js](http://www.webgl3d.cn/Three.js)
+[nouislider.js](https://refreshless.com/nouislider/)
 
 ---
 

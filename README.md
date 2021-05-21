@@ -31,7 +31,7 @@
 
 ## Git
 
-[常用git命令](https://github.com/Tronside/Tech-loading/issues/29)
+[常用35个git命令](https://github.com/Tronside/Tech-loading/issues/29)
 
 ---
 

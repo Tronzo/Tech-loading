@@ -29,9 +29,9 @@
 
 ---
 
-## 常用git命令
+## Git
 
-[node-cache](https://github.com/Tronside/Tech-loading/issues/29)
+[常用git命令](https://github.com/Tronside/Tech-loading/issues/29)
 
 ---
 

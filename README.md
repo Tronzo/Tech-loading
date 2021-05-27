@@ -26,7 +26,7 @@
 <a href="https://github.com/Tronside/Tech-loading/issues/24">windows下面kill 80端口</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/27">上传文件设置accept的MIME 类型</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/28">HTML空格占位符</a><br>
-<a href="https://github.com/Tronside/Tech-loading/issues/30">CSS100个Loading加载动画</a><br>
+
 ---
 
 ## Git

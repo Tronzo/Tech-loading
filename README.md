@@ -16,7 +16,7 @@
 <a href="https://github.com/Tronside/Tech-loading/issues/14">检查图片是否加载完毕</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/15">自动修复损坏的图片</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/16">简单的手风琴效果</a><br>
-<a href="https://github.com/Tronside/Tech-loading/issues/17">使两个 Div 高度一样</a><br>
+<a href="https://github.com/Tronside/Tech-loading/issues/17">使两个 Div 高度保持一样</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/18">通过文本找到元素</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/19">视焦点改变触发</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/20">Ajax 调用的错误处理</a><br>
@@ -26,7 +26,7 @@
 <a href="https://github.com/Tronside/Tech-loading/issues/24">windows下面kill 80端口</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/27">上传文件设置accept的MIME 类型</a><br>
 <a href="https://github.com/Tronside/Tech-loading/issues/28">HTML空格占位符</a><br>
-
+<a href="https://github.com/Tronside/Tech-loading/issues/30">CSS_100个Loading加载动画</a><br>
 ---
 
 ## Git

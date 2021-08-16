@@ -1,3 +1,4 @@
+记录&学习
 # loading
 ## Primary Tips
 ---

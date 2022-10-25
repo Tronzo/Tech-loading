@@ -30,7 +30,6 @@
 <a href="https://github.com/Tronside/Tech-loading/issues/30">100个CSS Loading加载动画</a><br/>
 <a href="https://github.com/Tronside/Tech-loading/issues/31">Css实现漂亮的滚动条样式</a><br/>
 <a href="https://github.com/Tronside/Tech-loading/issues/32">多兼容背景渐变CSS</a><br/>
-<a href="https://github.com/Tronside/Tech-loading/issues/33">两行省略号 多行省略号</a>
 ---
 
 ## Git

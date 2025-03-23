@@ -36,6 +36,7 @@
 <a href="https://github.com/Tronside/Tech-loading/issues/33">单行省略号 多行省略号</a><br/>
 <a href="https://github.com/Tronside/Tech-loading/issues/34">数组去重</a><br/>
 <a href="https://github.com/Tronside/Tech-loading/issues/35">css伪类三角形</a><br/>
+<a href="https://github.com/Tronside/Tech-loading/issues/36">常用正则匹配大全</a><br/>
 
 ---
 

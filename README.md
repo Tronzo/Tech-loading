@@ -4,7 +4,7 @@
 [ReactNote](https://github.com/Tronzo/ReactNote)<br/>
 [uniappNote](https://github.com/Tronzo/uniappNote)<br/>
 
-[Java SpringBoot](https://github.com/Tronzo/Java)<br/>
+[Java SpringBoot]([https://github.com/Tronzo/Java](https://github.com/Tronside/Tech-loading/issues/38))<br/>
 ## Primary Tips
 ---
 <a href="https://github.com/Tronside/Tech-loading/issues/25" >中高级前端必须注意的40条移动端H5坑位指南(爬坑必备)</a><br/>
